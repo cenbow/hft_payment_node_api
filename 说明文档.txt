@@ -1,0 +1,12 @@
+1.数据库相关：
+	hft_user_account_address增加字段:
+	request_no:绑卡请求号，
+	identity_type:用户标识类型，
+	bank_code:银行编号，
+	card_type:卡类型，
+	card_attribute:卡属性，
+	province:省份，
+	city:城市，
+	client_ip:请求者ip,
+	create_date:绑定时间,
+	update_date:修改绑定时间

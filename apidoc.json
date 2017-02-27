@@ -1,0 +1,9 @@
+{
+  "name": "PayMent Api Server",
+  "version": "0.1.0",
+  "description": "API description for the PayMent API.",
+  "title": "PayMent Api Server",
+  "template": {
+  	"withCompare": false
+  }
+}

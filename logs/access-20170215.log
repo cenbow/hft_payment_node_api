@@ -1,0 +1,6 @@
+::1 - - [15/Feb/2017:03:06:17 +0000] "GET / HTTP/1.1" 404 13 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+::1 - - [15/Feb/2017:03:06:17 +0000] "GET /favicon.ico HTTP/1.1" 404 24 "http://localhost:8091/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+::1 - - [15/Feb/2017:03:06:42 +0000] "GET /remark HTTP/1.1" 200 125 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+::1 - - [15/Feb/2017:03:06:52 +0000] "GET /remark/ETCCNY HTTP/1.1" 404 26 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+::1 - - [15/Feb/2017:03:07:07 +0000] "GET /remark/BTCCNY HTTP/1.1" 404 26 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
+::1 - - [15/Feb/2017:03:08:08 +0000] "GET /getRemark/ETCCNY HTTP/1.1" 200 125 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
